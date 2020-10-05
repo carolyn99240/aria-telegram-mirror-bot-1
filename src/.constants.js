@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@nameOf_bot"
+    NAME: "@slcloudyoutubebot"
   },
   IS_TEAM_DRIVE: true,
   INDEX_DOMAIN: "dl.sledgercloud.cf" // add an extra / at the end, for example https://www.gdindex.url/
